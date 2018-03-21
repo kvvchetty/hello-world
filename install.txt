@@ -1,0 +1,15 @@
+
+complete
+
+ng build --prod
+
+create the 
+app.yml
+
+to deploy to cloud
+
+gcloud app deploy
+
+
+ref:
+https://jaykhimani.blogspot.com/2016/10/deploying-angular-2-app-with-angular.html
