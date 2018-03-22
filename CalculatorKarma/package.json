@@ -1,0 +1,25 @@
+{
+  "name": "calculatorkarma",
+  "version": "1.0.0",
+  "description": "angular unit test using karma and jasmine",
+  "main": "index.js",
+  "scripts": {
+    "test": "karma start karma.conf.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git.com/kvvchetty/angular_karma_unit_test"
+  },
+  "keywords": [
+    "unit",
+    "test"
+  ],
+  "author": "kvvchetty",
+  "license": "ISC",
+  "devDependencies": {
+    "jasmine-core": "^3.1.0",
+    "karma": "^2.0.0",
+    "karma-chrome-launcher": "^2.2.0",
+    "karma-jasmine": "^1.1.1"
+  }
+}
